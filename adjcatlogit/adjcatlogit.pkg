@@ -1,5 +1,11 @@
-d 'DEA': Data envelopment analysis
+d 'adjcatlogit': Fitting ordinal logistic regression models Use adjcatlogit And ccrlogit And ucrlogit With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f adjcatlogit.ado
+f adjcatlogit.sthlp
+f adjcatlogit_p.ado
+f ccrlogit.ado
+f ccrlogit.sthlp
+f ccrlogit_p.ado
+f ucrlogit.ado
+f ucrlogit.sthlp
+f ucrlogit_p.ado

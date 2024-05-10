@@ -1,6 +1,8 @@
 # adjcatlogit
 Fitting ordinal logistic regression models Use adjcatlogit And ccrlogit And ucrlogit With STATA 18
 
+https://www.youtube.com/watch?v=heOIhrFSKfo
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
